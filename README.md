@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository supports the MSc Business Analytics dissertation project conducted at Trinity College Dublin by **Alberto de Leo**, under the supervision of **Dr. Soham Ghosh**. The research investigates the effectiveness of Transformer-based models—such as Vision Transformer (ViT), Swin Transformer, and BEiT—in detecting AI-generated images using the [CIFAKE] {https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images} dataset (due to size constraints the dataset is not available otn the repository, you can download it from the link).
+This repository supports the MSc Business Analytics dissertation project conducted at Trinity College Dublin by **Alberto de Leo**. The research investigates the effectiveness of Transformer-based models—such as Vision Transformer (ViT), Swin Transformer, and BEiT—in detecting AI-generated images using the [CIFAKE] {https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images} dataset (due to size constraints the dataset is not available otn the repository, you can download it from the link).
 
 ## Motivation
 
