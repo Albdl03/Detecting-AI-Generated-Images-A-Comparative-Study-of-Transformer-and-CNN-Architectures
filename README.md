@@ -13,7 +13,7 @@ With the increasing realism of AI-generated images from tools like DALL·E 2, Mi
 - **Dataset:** [CIFAKE] {https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images} – 120,000 images (60K real, 60K synthetic)
 - **Models Evaluated:** ViT, Swin Transformer, BEiT, ResNet-50
 - **Metrics:** Accuracy, F1-score, AUC, interpretability
-- **Tools & Libraries:** PyTorch, Torchvision, Hugging Face Transformers, Captum
+- **Tools & Libraries:** PyTorch, Torchvision, Hugging Face Transformers
 
 ## Key Contributions
 
@@ -29,5 +29,5 @@ With the increasing realism of AI-generated images from tools like DALL·E 2, Mi
 
 Contact
 Alberto de Leo
-Email: your.email@example.com
-LinkedIn: linkedin.com/in/albertodeleo
+Email: deleoa@tcd.ie
+LinkedIn: linkedin.com/in/alberto-de-leo
