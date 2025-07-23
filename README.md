@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository supports the MSc Business Analytics dissertation project conducted at Trinity College Dublin by **Alberto de Leo**. The research investigates the effectiveness of Transformer-based models—such as Vision Transformer (ViT), Swin Transformer, and BEiT—in detecting AI-generated images using the [CIFAKE] (https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) dataset (due to size constraints the dataset is not available otn the repository, you can download it from the link).
+This repository supports the MSc Business Analytics dissertation project conducted at Trinity College Dublin by **Alberto de Leo**. The research investigates the effectiveness of Transformer-based models—such as Vision Transformer (ViT), Swin Transformer, and BEiT—in detecting AI-generated images using the [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) dataset (due to size constraints the dataset is not available otn the repository, you can download it from the link).
 
 ## Motivation
 
@@ -10,7 +10,7 @@ With the increasing realism of AI-generated images from tools like DALL·E 2, Mi
 
 ## Methodology
 
-- **Dataset:** [CIFAKE] (https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) – 120,000 images (60K real, 60K synthetic)
+- **Dataset:** [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) – 120,000 images (60K real, 60K synthetic)
 - **Models Evaluated:** ViT, Swin Transformer, BEiT, ResNet-50
 - **Metrics:** Accuracy, F1-score, AUC, interpretability
 - **Tools & Libraries:** PyTorch, Torchvision, Hugging Face Transformers
